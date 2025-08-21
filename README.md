@@ -7,7 +7,7 @@ A complete HR data analysis project using Tableau to generate deep workforce ins
 
   Tableau (Dashboards, Visuals)
   
-  Excel (Raw HR Dataset)
+  CSV (Raw HR Dataset)
 
 
 
